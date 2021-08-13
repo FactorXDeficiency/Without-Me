@@ -1,5 +1,5 @@
 const { Plugin } = require('powercord/entities');
-window.lil = new Audio('LINK GOES HERE MOTHERFUCKER');
+window.lil = new Audio('LINK GOES HERE');
 const Settings = require('./Settings');
 
 module.exports = class Lofi extends Plugin {
