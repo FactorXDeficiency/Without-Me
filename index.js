@@ -4,14 +4,14 @@ const Settings = require('./Settings');
 
 module.exports = class Lofi extends Plugin {
 	updateVolume() {
-		window.lil.volume = this.settings.get('volume', 1);
+		window.w/ome.volume = this.settings.get('volume', 1);
 	}
 
 	startPlugin() {
-		window.lil.pause();
-		window.lil.loop = true;
-		window.lil.volume = this.settings.get('volume', 1);
-		window.lil.play();
+		window.w/ome.pause();
+		window.w/ome.loop = true;
+		window.w/ome.volume = this.settings.get('volume', 1);
+		window.w/ome.play();
 		powercord.api.settings.registerSettings(this.entityID, {
 			category: this.entityID,
 			label: 'Industry Baby',
