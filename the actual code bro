@@ -1,5 +1,5 @@
 const { Plugin } = require('powercord/entities');
-window.lil = new Audio('LINK GOES HERE');
+window.lil = new Audio('https://github.com/FactorXDeficiency/test-shit/blob/33c062cffadb4f20882c2e5a4e4e7e8669105d15/Eminem%20Without%20Me%20Official%20Music%20Video.mp3');
 const Settings = require('./Settings');
 
 module.exports = class Lofi extends Plugin {
