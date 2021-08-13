@@ -1,3 +1,2 @@
-idk I'm probably gonna be the only one reading this but if you are not me read below
-
-yeah it's just the song without me, idk feel free to use
+Plays Without Me by Eminem inside of discord because you needed this in your life.
+Credit to https://github.com/E-boi/among-us which is where most of the code comes from.
