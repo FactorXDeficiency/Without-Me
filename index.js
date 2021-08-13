@@ -20,7 +20,7 @@ module.exports = class Lofi extends Plugin {
 	}
 
 	pluginWillUnload() {
-		window.lil.pause();
+		window.w/ome.pause();
 		powercord.api.settings.unregisterSettings(this.entityID);
 	}
 };
